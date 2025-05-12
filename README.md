@@ -8,3 +8,13 @@
 あらかじめ`php artisan install:api`を実行してくれるようにdockerファイルを変更してみる 
 -y必須
 タブ、上矢印使えるように
+
+# 参考文献
+laravel,mysql接続
+https://qiita.com/hitotch/items/2e816bc1423d00562dc2
+
+dbエラー
+https://qiita.com/k--f/items/9e9ddf5e17e06d85e3ce
+
+REST API作成手順
+https://qiita.com/rockhopper-penguin/items/1c57b1c871f2ca2b69a9
